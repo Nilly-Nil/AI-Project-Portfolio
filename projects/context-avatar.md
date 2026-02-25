@@ -28,7 +28,7 @@ This project addresses a core industry gap: enabling AI systems to maintain iden
 Concepts developed in Context Avatar directly informed the conversational state management and scene control systems used in the Personal Assistant prototype, providing a research-backed foundation for commercial deployment.
 
 ## Technologies
-- Python
+- C++
 - LLM orchestration
 - State machines and graph-based flow control
 - Semantic context modeling
